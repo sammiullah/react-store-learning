@@ -1,0 +1,7 @@
+export { default as Cart } from './Cart/Cart'
+export { default as Product } from './Product'
+export { default as Productlist } from './Productlist'
+export { default as PageNotFound } from './PageNotFound'
+export { default as Detail } from './Detail'
+export { default as NavBar  } from './NavBar'
+export {default as Modal } from './Modal'
